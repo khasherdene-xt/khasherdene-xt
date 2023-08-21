@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi I'm 👋🏻 Khash-Erdene</h1>
+<h1 align="center">Hi 👋🏻 I'm Khash-Erdene</h1>
 
 ###
 
