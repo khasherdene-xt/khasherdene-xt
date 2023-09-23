@@ -1,8 +1,5 @@
 ## Hi there, 👋🏻 I'm Khash-Erdene, a Software Engineer based in Ulaanbaatar, Mongolia  
   
-
-
-
 ### Contact  
 <a href="https://www.facebook.com/khasherdeneswe" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -13,28 +10,9 @@
 <a href="https://linkedin.com/in/khasherdeneswe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Introduction  
 I am a fullstack web and mobile software developer and engineer, also working on some software development projects. Day by day, I'm learning and improving myself. I'm passionate about software development and technologies. I'm looking forward to getting to work on new exciting and challenging projects.  
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -52,15 +30,3 @@ I am a fullstack web and mobile software developer and engineer, also working on
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
