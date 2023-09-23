@@ -1,4 +1,4 @@
-## Hi there, 👋🏻 I'm Khash-Erdene, a Software Engineer based in Ulaanbaatar, Mongolia
+# Hi there, 👋🏻 I'm Khash-Erdene, a Software Engineer based in Ulaanbaatar, Mongolia
 
 ### Contact
 
