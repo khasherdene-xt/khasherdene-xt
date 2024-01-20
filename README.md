@@ -60,7 +60,7 @@
 
 <div align="left">
   <a href="https://linktr.ee/khasherdene" target="_blank">
-    <img src="https://bpando.org/wp-content/uploads/Linktree-Logo-by-Collins.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/?size=512&id=SAuKSoGPfNAW&format=png" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
