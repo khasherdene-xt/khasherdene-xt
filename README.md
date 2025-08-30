@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">Since childhood, my fascination with technology has been a driving force in my life. Growing up in Ulaanbaatar, Mongolia, I developed a profound love for all things related to software engineering, mobile, and web development. I started coding in the year 2021, and ever since, it has been a thrilling adventure of turning ideas into functional and innovative solutions. As a software engineer and a versatile developer, I find joy in the dynamic world of technology, constantly exploring new tools, languages, and frameworks to stay at the forefront of the ever-evolving digital landscape. My passion for coding is not just a profession but a lifelong commitment to mastering the art of programming and contributing to the exciting advancements shaping our technological future.</p>
+<p align="left">Hi, I’m Khash-Erdene. Growing up in Ulaanbaatar, Mongolia, I discovered a deep passion for software engineering, mobile, and web development. My coding journey began in 2021, and since then, it has been an exciting adventure, turning ideas into functional, innovative solutions.
+
+As a software engineer and versatile developer, I thrive in the fast-paced world of technology. I love exploring new tools, languages, and frameworks, constantly learning and adapting to stay ahead.
+
+For me, coding is more than just a career, it’s a lifelong pursuit of mastery, creativity, and building the future of technology.</p>
 
 ###
 
